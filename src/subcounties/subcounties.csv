@@ -1,0 +1,321 @@
+1,Mombasa ,CHANGAMWE 
+1,Mombasa ,JOMVU 
+1,Mombasa ,KISAUNI 
+1,Mombasa ,LIKONI 
+1,Mombasa ,MVITA (MOMBASA) 
+1,Mombasa ,NYALI 
+2,Kwale ,KINANGO 
+2,Kwale ,KWALE 
+2,Kwale ,LUNGA LUNGA 
+2,Kwale ,MSAMBWENI 
+3,Kilifi ,BAHARI (KILIFI) 
+3,Kilifi ,GANZE 
+3,Kilifi ,KALOLENI 
+3,Kilifi ,KILIFI SOUTH 
+3,Kilifi ,MAGARINI 
+3,Kilifi ,MALINDI 
+3,Kilifi ,RABAI 
+4,Tana River ,BURA (TANA NORTH) 
+4,Tana River ,TANA DELTA 
+4,Tana River ,TANA RIVER 
+5,Lamu ,LAMU EAST 
+5,Lamu ,LAMU WEST 
+6,Taita Taveta ,MWATATE 
+6,Taita Taveta ,TAVETA 
+6,Taita Taveta ,VOI 
+6,Taita Taveta ,WUNDANYI (TAITA) 
+7,Garissa ,BALAMBALA 
+7,Garissa ,DADAAB 
+7,Garissa ,FAFI 
+7,Garissa ,GARISSA 
+7,Garissa ,HULUGHO 
+7,Garissa ,IJARA 
+7,Garissa ,LAGDERA 
+8,Wajir ,BUNA 
+8,Wajir ,ELDAS 
+8,Wajir ,HABASWEIN 
+8,Wajir ,TARBAJ 
+8,Wajir ,WAJIR EAST 
+8,Wajir ,WAJIR NORTH 
+8,Wajir ,WAJIR SOUTH 
+8,Wajir ,WAJIR WEST 
+9,Mandera ,BANISA 
+9,Mandera ,LAFEY 
+9,Mandera ,MANDERA CENTRAL 
+9,Mandera ,MANDERA EAST 
+9,Mandera ,MANDERA NORTH 
+9,Mandera ,MANDERA WEST 
+10,Marsabit ,CHALBI 
+10,Marsabit ,HORR NORTH 
+10,Marsabit ,LOIYANGALANI 
+10,Marsabit ,MARSABIT 
+10,Marsabit ,MARSABIT SOUTH (LAISAMIS) 
+10,Marsabit ,MOYALE 
+10,Marsabit ,SOLOLO 
+11,Isiolo ,GARBATULA 
+11,Isiolo ,ISIOLO 
+11,Isiolo ,MERTI 
+12,Meru ,BUURI 
+12,Meru ,IGEMBE CENTRAL 
+12,Meru ,IGEMBE NORTH 
+12,Meru ,IGEMBE SOUTH 
+12,Meru ,IMENTI NORTH 
+12,Meru ,IMENTI SOUTH 
+12,Meru ,MERU CENTRAL 
+12,Meru ,TIGANIA CENTRAL 
+12,Meru ,TIGANIA EAST 
+12,Meru ,TIGANIA WEST 
+13,Tharaka-Nithi ,MAARA 
+13,Tharaka-Nithi ,MERU SOUTH 
+13,Tharaka-Nithi ,THARAKA NORTH 
+13,Tharaka-Nithi ,THARAKA SOUTH 
+14,Embu ,EMBU EAST 
+14,Embu ,EMBU NORTH 
+14,Embu ,EMBU WEST 
+14,Embu ,MBEERE NORTH 
+14,Embu ,MBEERE SOUTH 
+15,Kitui ,IKUTHA 
+15,Kitui ,KATULANI 
+15,Kitui ,KISASI 
+15,Kitui ,KITUI CENTRAL 
+15,Kitui ,KITUI WEST 
+15,Kitui ,KYUSO 
+15,Kitui ,LOWER YATTA 
+15,Kitui ,MATINYANI 
+15,Kitui ,MUMONI 
+15,Kitui ,MUTITO 
+15,Kitui ,MUTOMO 
+15,Kitui ,MWINGI CENTRAL 
+15,Kitui ,MWINGI EAST 
+15,Kitui ,MWINGI WEST /MIGWANI 
+15,Kitui ,NZAMBANI 
+15,Kitui ,TSEIKURU 
+16,Machakos ,ATHI RIVER 
+16,Machakos ,KANGUNDO 
+16,Machakos ,KATHIANI 
+16,Machakos ,MACHAKOS 
+16,Machakos ,MASINGA 
+16,Machakos ,MATUNGULU 
+16,Machakos ,MWALA 
+16,Machakos ,YATTA 
+17,Makueni ,KATHONZWENI 
+17,Makueni ,KIBWEZI 
+17,Makueni ,KILUNGU 
+17,Makueni ,MAKINDU 
+17,Makueni ,MAKUENI 
+17,Makueni ,MBOONI EAST 
+17,Makueni ,MBOONI WEST 
+17,Makueni ,MUKAA 
+17,Makueni ,NZAUI 
+18,Nyandarua ,KINANGOP 
+18,Nyandarua ,KIPIPIRI 
+18,Nyandarua ,MIRANGINE 
+18,Nyandarua ,NYANDARUA CENTRAL 
+18,Nyandarua ,NYANDARUA NORTH 
+18,Nyandarua ,NYANDARUA SOUTH 
+18,Nyandarua ,NYANDARUA WEST 
+19,Nyeri ,KIENI EAST 
+19,Nyeri ,KIENI WEST 
+19,Nyeri ,MATHIRA EAST 
+19,Nyeri ,MATHIRA WEST 
+19,Nyeri ,MUKURWE-INI 
+19,Nyeri ,NYERI CENTRAL 
+19,Nyeri ,NYERI SOUTH 
+19,Nyeri ,TETU 
+20,Kirinyaga ,KIRINYAGA CENTRAL 
+20,Kirinyaga ,KIRINYAGA EAST 
+20,Kirinyaga ,KIRINYAGA WEST 
+20,Kirinyaga ,MWEA EAST 
+20,Kirinyaga ,MWEA WEST 
+21,Murang'a ,GATANGA 
+21,Murang'a ,KAHURO 
+21,Murang'a ,KANDARA 
+21,Murang'a ,KANGEMA 
+21,Murang'a ,KIGUMO 
+21,Murang'a ,MATHIOYA 
+21,Murang'a ,MURANG'A EAST 
+21,Murang'a ,MURANG'A SOUTH 
+22,Kiambu ,GATUNDU NORTH 
+22,Kiambu ,GATUNDU SOUTH 
+22,Kiambu ,GITHUNGURI 
+22,Kiambu ,JUJA 
+22,Kiambu ,KABETE 
+22,Kiambu ,KIAMBAA 
+22,Kiambu ,KIAMBU 
+22,Kiambu ,KIKUYU 
+22,Kiambu ,LARI 
+22,Kiambu ,LIMURU 
+22,Kiambu ,RUIRU 
+22,Kiambu ,THIKA EAST 
+22,Kiambu ,THIKA WEST 
+23,Turkana ,KIBISH 
+23,Turkana ,LOIMA 
+23,Turkana ,TURKANA CENTRAL 
+23,Turkana ,TURKANA EAST 
+23,Turkana ,TURKANA NORTH 
+23,Turkana ,TURKANA SOUTH 
+23,Turkana ,TURKANA WEST 
+24,West Pokot ,KIPKOMO 
+24,West Pokot ,POKOT CENTRAL 
+24,West Pokot ,POKOT NORTH 
+24,West Pokot ,POKOT SOUTH 
+24,West Pokot ,WEST POKOT 
+25,Samburu ,SAMBURU CENTRAL 
+25,Samburu ,SAMBURU EAST 
+25,Samburu ,SAMBURU NORTH 
+26,Trans Nzoia ,ENDEBES 
+26,Trans Nzoia ,KIMININI 
+26,Trans Nzoia ,KWANZA 
+26,Trans Nzoia ,TRANS NZOIA EAST 
+26,Trans Nzoia ,TRANS NZOIA WEST 
+27,Uasin Gishu ,ELDORET EAST 
+27,Uasin Gishu ,ELDORET WEST 
+27,Uasin Gishu ,KESSES 
+27,Uasin Gishu ,MOIBEN 
+27,Uasin Gishu ,SOY 
+27,Uasin Gishu ,WARENG 
+28,Elgeyo Marakwet ,KEIYO 
+28,Elgeyo Marakwet ,KEIYO SOUTH 
+28,Elgeyo Marakwet ,MARAKWET EAST 
+28,Elgeyo Marakwet ,MARAKWET WEST 
+29,Nandi ,CHESUMEI 
+29,Nandi ,NANDI CENTRAL 
+29,Nandi ,NANDI EAST 
+29,Nandi ,NANDI NORTH 
+29,Nandi ,NANDI SOUTH 
+29,Nandi ,TINDERET 
+30,Baringo ,BARINGO CENTRAL 
+30,Baringo ,BARINGO NORTH 
+30,Baringo ,EAST POKOT 
+30,Baringo ,KOIBATEK 
+30,Baringo ,MARIGAT 
+30,Baringo ,MOGOTIO 
+31,Laikipia ,LAIKIPIA CENTRAL 
+31,Laikipia ,LAIKIPIA EAST 
+31,Laikipia ,LAIKIPIA NORTH 
+31,Laikipia ,LAIKIPIA WEST 
+31,Laikipia ,NYAHURURU 
+32,Nakuru ,GILGIL 
+32,Nakuru ,KURESOI 
+32,Nakuru ,KURESOI NORTH 
+32,Nakuru ,MOLO 
+32,Nakuru ,NAIVASHA 
+32,Nakuru ,NAKURU EAST 
+32,Nakuru ,NAKURU NORTH 
+32,Nakuru ,NAKURU WEST 
+32,Nakuru ,NJORO 
+32,Nakuru ,RONGAI 
+32,Nakuru ,SUBUKIA 
+33,Narok ,NAROK EAST 
+33,Narok ,NAROK NORTH 
+33,Narok ,NAROK SOUTH 
+33,Narok ,NAROK WEST 
+33,Narok ,TRANS MARA EAST 
+33,Narok ,TRANS MARA WEST 
+34,Kajiado ,ISINYA 
+34,Kajiado ,KAJIADO CENTRAL 
+34,Kajiado ,KAJIADO NORTH 
+34,Kajiado ,KAJIADO WEST 
+34,Kajiado ,LOITOKITOK 
+34,Kajiado ,MASHUURU 
+35,Kericho ,BELGUT 
+35,Kericho ,BURETI 
+35,Kericho ,KERICHO 
+35,Kericho ,KIPKELION 
+35,Kericho ,LONDIANI 
+35,Kericho ,SIGOWEI / SOIN 
+36,Bomet ,BOMET 
+36,Bomet ,BOMET EAST 
+36,Bomet ,CHEPALUNGU 
+36,Bomet ,KONOIN 
+36,Bomet ,SOTIK 
+37,Kakamega ,BUTERE 
+37,Kakamega ,KAKAMEGA CENTRAL 
+37,Kakamega ,KAKAMEGA EAST 
+37,Kakamega ,KAKAMEGA NORTH 
+37,Kakamega ,KAKAMEGA SOUTH 
+37,Kakamega ,KHWISERO 
+37,Kakamega ,LIKUYANI 
+37,Kakamega ,LUGARI 
+37,Kakamega ,MATETE 
+37,Kakamega ,MATUNGU 
+37,Kakamega ,MUMIAS 
+37,Kakamega ,MUMIAS EAST 
+37,Kakamega ,NAVAKHOLO 
+38,Vihiga ,EMUHAYA 
+38,Vihiga ,HAMISI 
+38,Vihiga ,LUANDA 
+38,Vihiga ,SABATIA 
+38,Vihiga ,VIHIGA 
+39,Bungoma ,BUMULA 
+39,Bungoma ,BUNGOMA CENTRAL 
+39,Bungoma ,BUNGOMA EAST 
+39,Bungoma ,BUNGOMA NORTH 
+39,Bungoma ,BUNGOMA SOUTH 
+39,Bungoma ,BUNGOMA WEST 
+39,Bungoma ,CHEPTAIS 
+39,Bungoma ,KIMILILI 
+39,Bungoma ,MT ELGON 
+39,Bungoma ,WEBUYE WEST 
+40,Busia ,BUNYALA 
+40,Busia ,BUSIA 
+40,Busia ,BUTULA 
+40,Busia ,NAMBALE 
+40,Busia ,SAMIA 
+40,Busia ,TESO NORTH 
+40,Busia ,TESO SOUTH 
+41,Siaya ,BONDO 
+41,Siaya ,GEM 
+41,Siaya ,RARIEDA 
+41,Siaya ,SIAYA 
+41,Siaya ,UGENYA 
+41,Siaya ,UGUNJA 
+42,Kisumu ,KISUMU CENTRAL 
+42,Kisumu ,KISUMU EAST 
+42,Kisumu ,KISUMU WEST 
+42,Kisumu ,MUHORONI 
+42,Kisumu ,NYAKACH 
+42,Kisumu ,NYANDO 
+42,Kisumu ,SEME 
+43,Homa Bay ,HOMA BAY 
+43,Homa Bay ,MBITA 
+43,Homa Bay ,NDHIWA 
+43,Homa Bay ,RACHUONYO EAST 
+43,Homa Bay ,RACHUONYO NORTH 
+43,Homa Bay ,RACHUONYO SOUTH 
+43,Homa Bay ,RANGWE 
+43,Homa Bay ,SUBA 
+44,Migori ,AWENDO 
+44,Migori ,KURIA EAST 
+44,Migori ,KURIA WEST 
+44,Migori ,MIGORI 
+44,Migori ,NYATIKE 
+44,Migori ,RONGO 
+44,Migori ,SUNA WEST 
+44,Migori ,URIRI 
+45,Kisii ,GUCHA 
+45,Kisii ,GUCHA SOUTH 
+45,Kisii ,KENYENYA 
+45,Kisii ,KISII CENTRAL 
+45,Kisii ,KISII SOUTH 
+45,Kisii ,KITUTU CENTRAL 
+45,Kisii ,MARANI 
+45,Kisii ,MASABA SOUTH 
+45,Kisii ,NYAMACHE 
+45,Kisii ,SAMETA 
+46,Nyamira ,BORABU 
+46,Nyamira ,MANGA 
+46,Nyamira ,MASABA NORTH 
+46,Nyamira ,NYAMIRA NORTH 
+46,Nyamira ,NYAMIRA SOUTH 
+47,Nairobi ,DAGORETTI 
+47,Nairobi ,EMBAKASI 
+47,Nairobi ,KAMUKUNJI 
+47,Nairobi ,KASARANI 
+47,Nairobi ,KIBRA 
+47,Nairobi ,LANGATA 
+47,Nairobi ,MAKADARA 
+47,Nairobi ,MATHARE 
+47,Nairobi ,NJIRU 
+47,Nairobi ,STAREHE 
+47,Nairobi ,WESTLANDS 
